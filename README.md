@@ -4,11 +4,11 @@ A Hangman word-guessing game implemented in Python for PRT582 Software Engineeri
 
 ## Features
 
-- 🖥️ **Dual Interface**: Command Line (CLI) and Graphical (GUI) versions
-- ⏰ **Real-time Timer**: Live countdown for each turn
-- 📊 **Game Statistics**: Detailed statistics and English prompts
-- 🧪 **Unit Testing**: 17 comprehensive tests with pytest
-- 🌍 **Cross-platform**: Windows, macOS, and Linux support
+**Dual Interface**: Command Line (CLI) and Graphical (GUI) versions
+**Real-time Timer**: Live countdown for each turn
+**Game Statistics**: Detailed statistics and English prompts
+**Unit Testing**: 17 comprehensive tests with pytest
+**Cross-platform**: Windows, macOS, and Linux support
 
 ## Quick Start
 
