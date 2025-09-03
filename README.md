@@ -52,7 +52,7 @@ hangman_project/
 ## Testing & TDD
 
 The project includes:
-- **17 comprehensive unit tests** covering all functionality
+- **21 comprehensive unit tests** covering all functionality
 - **TDD example module** demonstrating test-driven development
 - **Cross-platform compatibility tests**
 
